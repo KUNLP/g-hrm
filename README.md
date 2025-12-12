@@ -145,13 +145,6 @@ python evaluation/evaluate_gemini.py \
 python evaluation/calculate_agreement_metrics.py
 ```
 
-## Results
-
-On GRBench healthcare dataset:
-- **G-HRM**: 43.62% accuracy (2.26x improvement over Graph-CoT)
-- **Graph-CoT**: 19.26% accuracy
-- **GraphRAG**: 6.66% accuracy
-- **RAG**: 1.24% accuracy
 
 ## Citation
 
