@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files
+data/
+*.json
+*.jsonl
+*.pkl
+*.cache
+
+# Results
+results/
+*.log
+
+# API keys
+*api_key*
+*API_KEY*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+models/
+*.bin
+*.pt
+*.pth
+
+# Embeddings cache
+embed_cache/
+cache/
+
